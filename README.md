@@ -18,4 +18,4 @@ main(int age,[]int nums, map[int]string names) {
 }
 ```
 
-© Copyright Max Base 2018-2019
+© Copyright Max Base 2018, 2019-2020
